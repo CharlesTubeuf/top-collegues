@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { Avis } from './model';
+
 
 @Component({
   selector: 'app-root',
